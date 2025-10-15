@@ -1,0 +1,7 @@
+the code was basically train the machine learning model with 20k images
+you need the following requirements
+*tensorflow
+*numpy
+*matplotlib
+*you need to make the image into the 32*32 pixel low res
+       because high quality images amy lead to demand more time and spec
